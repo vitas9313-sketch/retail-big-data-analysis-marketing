@@ -1,4 +1,4 @@
-# Retail Data Analytics & Marketing Strategy Proposal
+# Retail Analytics & Data-Driven Marketing Strategy
 
 ## Project Overview
 This project leverages the retail TAFENG Dataset, combining data analysis with marketing strategy to translate insights into actionable business solutions.
