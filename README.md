@@ -3,9 +3,9 @@
 ## 🎥 Project Presentation
 
 <p align="center">
-<a href="https://youtu.be/HSWh3lfnExQ">
-<img src="assets/thumbnails.png" width="800">
-</a>
+  <a href="https://youtu.be/HSWh3lfnExQ">
+    <img src="assets/thumbnails.png" width="800">
+  </a>
 </p>
 
 Click the image above to watch the full presentation.
