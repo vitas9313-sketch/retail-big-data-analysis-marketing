@@ -25,6 +25,6 @@ Click the image below to watch the project demo:
 ---
 
 ## Project Resources
-- 📊 **Analysis Report (HTML)** – [View Analysis](retail-big-data-analysis-marketing/analysis)
+- 📊 **Analysis Report (HTML)** – [View Analysis](https://htmlpreview.github.io/?retail-big-data-analysis-marketing/analysis)
 - 📑 **Presentation Slides** – [View Slides](output/retail-marketing-strategy-slides.pdf)
 - 💻 **R Analysis Code** – [View Code](analysis/retail-analysis.R)
