@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://youtu.be/HSWh3lfnExQ">
-    <img src="https://github.com/vitas9313-sketch/retail-big-data-analysis-marketing/raw/main/assets/thumbnails.png" width="800">
+    <img src="retail-big-data-analysis-marketing/assets/thumbnails.png" width="800">
   </a>
 </p>
 
