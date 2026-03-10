@@ -13,12 +13,9 @@ Click the image below to watch the project demo:
 ---
 
 ## Project Overview
+This project leverages the retail TAFENG Dataset, combining data analysis with marketing strategy to translate insights into actionable business solutions.
 
-This project analyzes retail transaction data to identify customer behavior patterns and propose data-driven marketing strategies.
-
-The analysis focuses on:
-
-- Customer segmentation
-- Sales performance trends
-- Product category insights
-- Marketing strategy recommendations
+## Key Contributions
+- **Customer and Product Feature Analysis** – Conducted data cleaning and hierarchical clustering on the Top 40 revenue product categories using R (tidyverse/cluster), calculating repurchase and attach rates to identify core customer loyalty and cross-selling potential.  
+- **Targeted Marketing Strategy Development** – Integrated Product Life Cycle (PLC) and consumer psychology analysis to design differentiated marketing strategies, optimizing profitability with expected +3% gross margin and +1.2% revenue.  
+- **Analytical Workflow and Strategy Presentation** – Systematically organized data and insights, presenting marketing strategy clearly through charts and slides.
