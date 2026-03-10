@@ -4,7 +4,9 @@
 Click the image below to watch the full presentation:
 <p align="center">
   <a href="https://youtu.be/HSWh3lfnExQ">
-    <img src="retail-big-data-analysis-marketing/assets/thumbnails.png" width="800">
+    <img src="retail-big-data-analysis-marketing/assets/thumbnails.png" 
+         width="600" 
+         style="border: 3px solid #000000; border-radius: 6px;">
   </a>
 </p>
 
