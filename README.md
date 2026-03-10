@@ -25,6 +25,7 @@ Click the image below to watch the project demo:
 ---
 
 ## Project Resources
-- 📊 **Analysis Report (HTML)** – [View Analysis](https://htmlpreview.github.io/?retail-big-data-analysis-marketing/analysis)
-- 📑 **Presentation Slides** – [View Slides](output/retail-marketing-strategy-slides.pdf)
-- 💻 **R Analysis Code** – [View Code](analysis/retail-analysis.R)
+
+- 📑 **Presentation Slides** – [View Slides](https://htmlpreview.github.io/?https://github.com/vitas9313-sketch/retail-big-data-analysis-marketing/blob/main/retail-big-data-analysis-marketing/presentation/slides-retail%20analytics%20%26%20data-driven%20marketing%20strategy.pdf)
+
+- 📊 **R Analysis Code (HTML)** – [View Analysis Code](https://htmlpreview.github.io/?https://github.com/vitas9313-sketch/retail-big-data-analysis-marketing/blob/main/retail-big-data-analysis-marketing/analysis/code-retail%20analytics%20%26%20data-driven%20marketing%20strategy.html)
