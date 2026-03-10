@@ -1,1 +1,1 @@
-# Strategic Resilience: Financial Pivot & Tariff Risk Mitigation for Toyota
+# Retail Data Analytics & Marketing Strategy Proposal
