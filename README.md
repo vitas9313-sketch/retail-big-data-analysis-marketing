@@ -1,5 +1,10 @@
 # Retail Data Analytics & Marketing Strategy Proposal
 
+## Project Overview
+This project leverages the retail TAFENG Dataset, combining data analysis with marketing strategy to translate insights into actionable business solutions.
+
+---
+
 ## 🎥 Project Presentation
 Click the image below to watch the project demo:
 <p align="center">
@@ -11,9 +16,6 @@ Click the image below to watch the project demo:
 </p>
 
 ---
-
-## Project Overview
-This project leverages the retail TAFENG Dataset, combining data analysis with marketing strategy to translate insights into actionable business solutions.
 
 ## Key Contributions
 - **Customer and Product Feature Analysis** – Conducted data cleaning and hierarchical clustering on the Top 40 revenue product categories using R (tidyverse/cluster), calculating repurchase and attach rates to identify core customer loyalty and cross-selling potential.  
