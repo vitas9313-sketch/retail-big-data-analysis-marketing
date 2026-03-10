@@ -1,7 +1,7 @@
 # Retail Data Analytics & Marketing Strategy Proposal
 
 ## 🎥 Project Presentation
-Click the image below to watch the full presentation:
+Click the image below to watch the project demo:
 <p align="center">
   <a href="https://youtu.be/HSWh3lfnExQ">
     <img src="retail-big-data-analysis-marketing/assets/thumbnails.png" 
