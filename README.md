@@ -1,7 +1,7 @@
 # Retail Data Analytics & Marketing Strategy
 
 ## Project Overview
-This project leverages the retail TAFENG Dataset, combining data analysis with marketing strategy to translate insights into actionable business solutions.
+This project leverages the [Ta-Feng Grocery Dataset](https://www.kaggle.com/datasets/chiranjivdas09/ta-feng-grocery-dataset), which contains **817,601 transactions** from a Chinese grocery store between November 2000 and February 2001, to analyze customer behavior and support marketing decisions.
 
 ---
 
