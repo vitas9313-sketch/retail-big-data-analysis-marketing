@@ -16,4 +16,4 @@ This project applies the [Ta-Feng Grocery Dataset](https://www.kaggle.com/datase
 
 - 📑 **Presentation Slides** – [View Slides](https://github.com/vitas9313-sketch/retail-big-data-analysis-marketing/blob/main/retail-big-data-analysis-marketing/presentation/slides-retail%20analytics%20%26%20data-driven%20marketing%20strategy.pdf)
 
-- 📊 **R Analysis Code (HTML)** – [View Analysis Code](https://github.com/vitas9313-sketch/retail-big-data-analysis-marketing/blob/main/retail-big-data-analysis-marketing/presentation/slides-retail%20analytics%20%26%20data-driven%20marketing%20strategy.pdf)
+- 📊 **R Analysis Code (HTML)** – [View Analysis Code](https://github.com/vitas9313-sketch/retail-big-data-analysis-marketing/blob/main/retail-big-data-analysis-marketing/analysis/code-retail%20analytics%20%26%20data-driven%20marketing%20strategy.Rmd)
