@@ -7,7 +7,7 @@ This project applies the [Ta-Feng Grocery Dataset](https://www.kaggle.com/datase
 
 ## Key Contributions
 - **Customer and Product Feature Analysis** – Conducted data cleaning and hierarchical clustering on the Top 40 revenue product categories using R (tidyverse/cluster), calculating repurchase and attach rates to identify core customer loyalty and cross-selling potential.  
-- **Targeted Marketing Strategy Development** – Integrated Product Life Cycle (PLC) and consumer psychology analysis to design differentiated marketing strategies, optimizing profitability with expected +2.1% in revenue and a 45-basis-point (0.45%) improvement in gross margin.
+- **Targeted Marketing Strategy Development** – Integrated Product Life Cycle (PLC) and consumer psychology analysis to design differentiated marketing strategies, optimizing profitability with expected +2.1% in revenue and +0.45% improvement in gross margin.
 - **Analytical Workflow and Strategy Presentation** – Systematically organized data and insights, presenting marketing strategy clearly through charts and slides.
 
 ---
